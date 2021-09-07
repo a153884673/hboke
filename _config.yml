@@ -80,4 +80,4 @@ theme: butterfly
 deploy:
   type: git 
   repo: https://github.com/a153884673/hboke.git
-  branch: main
+  branch: gh-pages
